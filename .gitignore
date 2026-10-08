@@ -1,0 +1,29 @@
+# Build / dependencias
+bin/
+obj/
+node_modules/
+dist/
+.angular/
+
+# Secretos locales (usar .env.example como plantilla)
+.env
+
+# Sistema / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vs/
+*.user
+
+# Archivos de asistentes de IA
+CLAUDE.md
+.claude/
+.cursor/
+.cursorrules
+.windsurfrules
+.aider*
+.github/copilot-instructions.md
+.continue/
+.codeium/
+AGENTS.md
+GEMINI.md

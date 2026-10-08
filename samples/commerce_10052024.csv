@@ -1,0 +1,9 @@
+pc_processdate,pc_codcomercio,pc_nomcomred,pc_razonsocial,pc_tipodoc,pc_numdoc,pc_ciudad,pc_direccion,pc_telefono,pc_email
+2024-05-10,C001,Tienda La Esquina,La Esquina S.A.,RUC,1790012345001,Quito,Av. Amazonas N12,022345678,esquina@mail.com
+2024-05-10,C002,,Comercial Sin Nombre,RUC,1790012345002,Guayaquil,Av. 9 de Octubre,042345678,sn@mail.com
+2024-05-10,C003,Farmacia Central,Farmacia Central Cia,RUC,17900ABC45001,Cuenca,Calle Larga 5,072345678,fc@mail.com
+2024-05-10,C004,Super Ahorro,Super Ahorro SA,CED,0912345678,Guayaquil,Av. Kennedy,042111222,sa@mail.com
+2024-05-10,C005,Panaderia Sol,Panaderia Sol,CED,09-123#45,Loja,Centro,072999888,ps@mail.com
+2024-05-10,C006,Libreria Norte,Libreria Norte,RUC,,Quito,La Prensa,022000111,ln@mail.com
+2024-05-10,C007,,Sin Todo,RUC,AB-12,Ambato,Centro,032123456,st@mail.com
+2024-05-11,C008,Ferreteria Mega,Mega SA,RUC,1790099999001,Manta,Malecon,052123456,fm@mail.com
